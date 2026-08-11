@@ -41,6 +41,6 @@ Test Accuracy: 86.38%
 
 ## Team Members
 
-- Name — Index Number
-- Name — Index Number
-- Name — Index Number
+- Sefah Opoku Emmanuel — Index Number
+- Paa Kwesi Wilson Tsedey — Index Number
+- Bright B. B. Borketey — Index Number
