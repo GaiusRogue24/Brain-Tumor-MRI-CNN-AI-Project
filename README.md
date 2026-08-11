@@ -41,6 +41,6 @@ Test Accuracy: 86.38%
 
 ## Team Members
 
-- Sefah Opoku Emmanuel — Index Number
-- Paa Kwesi Wilson Tsedey — Index Number
-- Bright B. B. Borketey — Index Number
+- Sefah Opoku Emmanuel — UEB3520923 
+- Wilson Paa Kwesi Tsedey — UEB3521623
+- Bright B. B. Borlabi — UEB3504023
